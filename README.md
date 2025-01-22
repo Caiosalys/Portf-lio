@@ -1,1 +1,1 @@
-# Portf-lio-
+Desenvolvedor Júnior em constante aprendizado. Neste portfólio, você encontrará meus primeiros projetos desenvolvidos. Através deles, adquiri experiência em desenvolvimento back-end e front-end, criação de APIs RESTful e integração com bancos de dados. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para o desenvolvimento de soluções inovadoras.
